@@ -16,7 +16,7 @@
   
   - name: Deploy html file
     copy: 
-     src: index.html 
+     src: index1.html 
      dest: /var/www/html
     notify: 
       - Restart httpd

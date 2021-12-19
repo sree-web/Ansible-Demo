@@ -42,4 +42,4 @@
 
 ## db-[99:101]-node.example.com
 [webserver]
-192.168.225.71
+192.168.225.71 ansible_user=root
